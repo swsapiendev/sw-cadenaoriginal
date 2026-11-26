@@ -14,9 +14,9 @@
         <gpg.skip>true</gpg.skip>
     </properties>
     <scm>
-        <url>https://github.com/lunasoft/sw-cadenaoriginal</url>
-        <connection>scm:git:git@github.com:lunasoft/sw-cadenaoriginal.git</connection>
-        <developerConnection>scm:git:git@github.com:lunasoft/sw-cadenaoriginal.git</developerConnection>
+        <url>https://github.com/swsapiendev/sw-cadenaoriginal</url>
+        <connection>scm:git:git@github.com:swsapiendev/sw-cadenaoriginal.git</connection>
+        <developerConnection>scm:git:git@github.com:swsapiendev/sw-cadenaoriginal.git</developerConnection>
 
     </scm>
       <licenses>
